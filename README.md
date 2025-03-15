@@ -49,10 +49,10 @@ pip install -r requirements.txt
 1. Masuk ke direktori proyek (Local):
 
     ```shell
-    cd bike-sharing/dashboard/
+    cd streamlite-app/dashboard/
     streamlit run dashboard.py
     ```
-    Atau bisa dengan kunjungi website ini [Project Data Analytics](https://test/)
+    Atau bisa dengan kunjungi website ini [Project Data Analytics](https://mufadhdhal-project/)
 
 ## Kontribusi
 Anda dapat berkontribusi pada proyek ini dengan melakukan pull request. Pastikan untuk menjelaskan perubahan yang Anda usulkan secara jelas dan menyeluruh.
