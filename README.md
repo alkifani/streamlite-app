@@ -52,7 +52,7 @@ pip install -r requirements.txt
     cd streamlite-app/dashboard/
     streamlit run dashboard.py
     ```
-    Atau bisa dengan kunjungi website ini [Project Data Analytics](https://mufadhdhal-project/)
+    Atau bisa dengan kunjungi website ini [Project Data Analytics](https://mufadhdhal-project.streamlit.app/)
 
 ## Kontribusi
 Anda dapat berkontribusi pada proyek ini dengan melakukan pull request. Pastikan untuk menjelaskan perubahan yang Anda usulkan secara jelas dan menyeluruh.
